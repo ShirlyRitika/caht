@@ -1,0 +1,200 @@
+body{
+    height: 1000px;
+    width: 1500px;
+    border: 1px solid white;
+    color: white;
+}
+.side-color{
+    background-color: hsl(264, 100%, 61%);
+    height: 600px;
+    width: 420px;
+    border-end-end-radius: 200px;
+    border-bottom-left-radius: 58px;
+    position: absolute;
+}
+
+.phone{
+     border: 1px solid white;
+     height: 850px;
+    width: 350px;
+     margin-left: 292px;
+     margin-top: 100px;
+     border-radius: 35px;
+     position: absolute;
+     background-color: whitesmoke;
+}
+
+.sam{
+    height: 40px;
+    position: absolute;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-top: 23px;
+    margin-left: 15px;
+}
+
+.top{ 
+    background-color: rgb(204, 42, 204);
+    height: 80px;
+    width: 380px;
+    border: 1px solid rgb(204, 42, 204);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: 15px;
+    margin-left: 10px;
+    gap: 0px;
+}
+
+.para{
+    color: white;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: larger;
+    padding-left: 100px;
+    align-self: baseline;
+    display: flex;
+    gap: 0px;
+}
+
+.walk{
+    color: white;
+    font-family: sans-serif;
+    font-size: small;
+    padding-left: 100px;
+    align-items: flex-start;
+}
+
+.chat{
+    color: pink;
+}
+
+.first{
+    border: 1px solid plum;
+    background-color: rgb(192, 148, 192);
+    height: 50px;
+    width: 210px;
+    padding-left: 5px;
+    text-align: start;
+    border-radius: 8px;
+}
+
+.second{
+    border: 1px solid plum;
+    background-color: rgb(192, 148, 192);
+    height: 50px;
+    width: 210px;
+    padding-left: 5px;
+    text-align: start;
+    border-radius: 8px;
+}
+.dogs{
+    height: 80px;
+    border-radius: 10px;
+    padding-right: 20px;
+}
+
+.dog{
+    float: right;
+}
+
+.here{
+    border: 1px solid plum;
+    margin-right: 50px;
+    justify-content: end;
+    background-color: rgb(192, 148, 192);
+    height: 50px;
+    width: 210px;
+    padding-right: 2px;
+    text-align: start;
+    border-radius: 8px;    
+}
+
+.make{
+    border: 1px solid plum;
+    background-color: rgb(192, 148, 192);
+    height: 40px;
+    width: max-content;
+    padding-left: 20px;
+    border-radius: 10px;
+    padding-top: 8px;
+    text-align: center;
+}
+
+.bottom{
+    float: left;
+}
+
+.bottom-para{
+    border: 1px solid plum;
+    background-color: rgb(192, 148, 192);
+    height: 63px;
+    width: 240px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 8px;
+}
+
+.min{
+    background-color: hsl(289, 100%, 72%);
+    height: 38px;
+    padding-top: 12px;
+    border: 1px solid hsl(289, 100%, 72%);
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.dollar{
+    font-weight: bolder;
+    font-size: large;
+    padding-left: 80px;
+    color: white;
+}
+
+.dollars{
+    font-weight: bolder;
+    font-size: large;
+    padding-left: 100px;
+    color: white;
+}
+
+.hour{
+    background-color: hsl(289, 100%, 72%);
+    height: 38px;
+    padding-top: 12px;
+    border: 1px solid hsl(289, 100%, 72%);
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.box{
+    height: 30px;
+    width: 290px;
+    border: 1px solid white;
+    margin-top: 500px;
+    color: grey;
+    background-color: white;
+    font-weight: lighter;
+    border-radius: 10px;
+    text-align: start;
+    position: absolute;
+    padding-top: 10px;
+    position: absolute;
+}
+
+.simple{
+    padding-left: 450px;
+    text-align: center;
+    padding-top: 250px;
+    font-family: sans-serif;
+    letter-spacing: 0.6px; 
+    color: grey;  
+}
+
+.heading{
+    color: indigo;
+}
+
